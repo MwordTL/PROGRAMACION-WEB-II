@@ -1,0 +1,10 @@
+body {
+    color: red;
+    background-color: black;
+}
+p.TEXT1 {
+    font-size: 50px;
+    border: 3px;
+    border-style: dashed;
+    text-align: center;
+}
